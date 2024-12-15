@@ -1,4 +1,5 @@
-Flores et al. 2024
+#Correlating Disordered Activation Domain Ensembles with Gene Expression Levels#
+##by Eduardo Flores, Aleah R. Camacho, Estefania Cuevas-Zepeda, Mary B. McCoy, Feng Yu, Max V. Staller, Shahar Sukenik
 
 Welcome to the repository for the Flores et al. 2024 project! 
 This repository contains all the data, analysis scripts, and 
